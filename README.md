@@ -12,7 +12,7 @@ I enjoy working on projects that help me improve my programming and development 
 
 ## 🛠️ Skills
 
-* **Languages:** C, Python, Java (Basics)
+* **Languages:** C, Python, Java 
 * **Core:** Data Structures & Algorithms
 * **Interests:** Artificial Intelligence, Web Development
 * **Tools:** Git, GitHub, VS Code
